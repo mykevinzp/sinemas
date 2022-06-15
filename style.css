@@ -263,7 +263,7 @@ background: #000;}
 
 
 /* Mobile view */
-@media (max-width: 952px){
+@media screen and(max-width: 952px){
 header{
     display: block;
 }
